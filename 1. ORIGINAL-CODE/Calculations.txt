@@ -1,0 +1,27 @@
+
+TRACK
+Track.length: 180cm
+Track.width: 120cm
+Cross.area: 20cm x 20cm
+Small.goal: 8cm
+Large.goal: 20cm
+
+ROBOT
+The longest width: ~22.5cm
+The longest length: ~45cm
+The highest heigth: ~23.5cm
+Wheel.diameter = ~56cm
+Axle.track = ~115cm
+Wheel.size: 68.8mm x 36mm
+Diameter (MM): 68.8mm
+Circumference (MM): 216mm
+Ratio (DEGREE/MM): 1.67
+
+
+CAMERA - Logitech HD pro webcam C920
+Camera.height: 175cm
+FOV: 78degrees
+Resolution: 11920 x 1080
+
+
+
