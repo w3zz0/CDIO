@@ -20,3 +20,7 @@ class TestClient(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+'''
+https://www.devdungeon.com/content/unit-testing-tcp-server-client-python reference to how this unittest was initally created
+'''

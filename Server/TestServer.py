@@ -13,7 +13,7 @@ class TestServer(unittest.TestCase):
 
         client = socket.socket()
         client.settimeout(1)
-        
+
         try:
             client.connect(('127.0.0.1', 7777))
             client.close()
@@ -25,3 +25,7 @@ class TestServer(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+'''
+https://www.devdungeon.com/content/unit-testing-tcp-server-client-python reference to how this unittest was initally created
+'''
